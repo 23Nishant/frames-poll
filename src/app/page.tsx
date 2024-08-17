@@ -1,4 +1,4 @@
-import { getFrameHtmlResponse } from '../app/frames/frames';
+import { getFrameHtmlResponse } from './frames/frames';
 
 const question = "Do you enjoy using Farcaster Frames?";
 const option1 = "Yes";
